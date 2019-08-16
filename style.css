@@ -1,0 +1,6 @@
+body{ background-color: 	rgb(192, 192, 192); margin: auto;
+width:600px;}
+.boxed { margin:20px;
+  border: 1px solid white ;
+  width:600px ;
+} 

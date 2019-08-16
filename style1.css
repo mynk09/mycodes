@@ -1,0 +1,19 @@
+form li{ list-style: none; 
+    margin-bottom:  25px;
+    }
+
+    form ul{
+    	padding-left: 0;
+
+    }
+
+    label{
+    	display: block;
+    	cursor: pointer;
+    }
+
+
+    textarea{
+    	width: 400px;
+    	height:200px;
+    }
